@@ -1,4 +1,4 @@
-name := "ScalaCrawlerModuleDemo"
+name := "service-public.fr-DeadLinksCrawler"
 
 version := "1.0"
 
